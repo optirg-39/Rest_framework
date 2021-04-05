@@ -2,33 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b25fb60-2bff-46c3-92bf-cce5d9f14bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF10/3P_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF10/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF11/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF3/3P_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF3/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/3P_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF4/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF9/3P_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF12/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,10 +37,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rDRF11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rDRF12" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF12" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF11" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF10" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF9" />
