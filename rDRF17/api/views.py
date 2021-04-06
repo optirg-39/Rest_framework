@@ -1,4 +1,12 @@
 # ViewSet class
+# from django.shortcuts import render
+#
+# from .models import Students
+# from .serializers import StudentModelSerializer
+# from rest_framework import viewsets
+# from rest_framework.response import Response
+# from rest_framework import status
+
 from django.shortcuts import render
 from rest_framework.response import Response
 from .models import Students
@@ -8,6 +16,7 @@ from rest_framework import status
 
 
 class StudentsViewSet(viewsets.ViewSet):
+
     def List(self,request):
         print('*****List******')
         print('Basename:', self.basename)

@@ -1,0 +1,95 @@
+# ModelViewSet class
+from .models import Students
+from .serializers import StudentModelSerializer
+from rest_framework import viewsets
+
+class StudentModelViewSet(viewsets.ModelViewSet):
+        queryset = Students.objects.all()
+        serializer_class = StudentModelSerializer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        pass
