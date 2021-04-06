@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b25fb60-2bff-46c3-92bf-cce5d9f14bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF17/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rDRF15/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/rDRF15/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="7b25fb60-2bff-46c3-92bf-cce5d9f14bd2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
