@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b25fb60-2bff-46c3-92bf-cce5d9f14bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rDRF22/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/custompermissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/rDRF22/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/rDRF22/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/rDRF22/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/rDRF22/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF22/rDRF22/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/custompermissions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/rDRF23/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/rDRF23/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/rDRF23/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/rDRF23/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF23/rDRF23/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rDRF22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rDRF23" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
@@ -56,11 +55,11 @@
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF22\api" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF23" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF22" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF21" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF20" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF19" />
-      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF18" />
     </key>
   </component>
   <component name="RunDashboard">
