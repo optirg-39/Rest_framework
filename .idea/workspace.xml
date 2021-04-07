@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b25fb60-2bff-46c3-92bf-cce5d9f14bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF20/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF21/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,16 +37,16 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/rDRF20" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rDRF21" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF21" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF20" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF19" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF18" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF17" />
-      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF16" />
     </key>
   </component>
   <component name="RunDashboard">
