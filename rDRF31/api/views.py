@@ -14,6 +14,7 @@ class StudentModelViewSet(viewsets.ModelViewSet):
         permission_classes = [IsAuthenticatedOrReadOnly]
         # permission_classes = [IsAuthenticated]
         throttle_classes = [AnonRateThrottle, DhoniRateThrottel]
+        # throttle_classes = [AnonRateThrottle, UserRateThrottle]
 
 
 
