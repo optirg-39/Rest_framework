@@ -2,13 +2,17 @@ from django.shortcuts import render
 from .models import Student
 from .serializer import StudentSerialier
 from rest_framework.generics import ListAPIView
-from django_filters.rest_framework import DjangoFilterBackend
+from rest_framework.filters import SearchFilter
 
 # Create your views here.
 
 class StudentList(ListAPIView):
     queryset = Student.objects.all()
     serializer_class = StudentSerialier
-    filter_backends = [DjangoFilterBackend]
-    filterset_fields = ['city','name']
-    # filterset_fields = ['city']
+    filter_backends = [SearchFilter]
+    """settings.py me default search change to rishabh"""
+    # search_fields = ['city']
+    search_fields = ['city','name']
+    # search_fields = ['^name']
+    # search_fields = ['=name']
+
