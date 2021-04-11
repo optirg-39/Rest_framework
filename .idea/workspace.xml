@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b25fb60-2bff-46c3-92bf-cce5d9f14bd2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/api/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/rDRF37/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/rDRF37/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/rDRF37/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/rDRF37/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rDRF37/rDRF37/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rDRF38/api/mypagination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rDRF37/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rDRF37/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rDRF38/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rDRF38/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rDRF38/rDRF38/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rDRF38/rDRF38/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,14 +39,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF38\api" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF22\api" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF38" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF36" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF35" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF34" />
       <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF32" />
-      <recent name="C:\Users\dell\PycharmProjects\DRF\rDRF31" />
     </key>
   </component>
   <component name="RunDashboard">

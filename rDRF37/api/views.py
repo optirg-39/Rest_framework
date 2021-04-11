@@ -8,4 +8,5 @@ from rest_framework.generics import ListAPIView
 class StudentListView(ListAPIView):
     queryset = Student.objects.all()
     serializer_class = StudentSerializer
+    """PageNumberPagination Is Defined Globali in settings.py"""
 
